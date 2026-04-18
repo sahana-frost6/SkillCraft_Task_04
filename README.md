@@ -21,7 +21,6 @@ This project analyzes a countrywide traffic accident dataset to identify pattern
 3. Run the script:
    ```bash
    python main.py
-## 🖼️ Visualizations
 
 ## 🖼️ Visualizations
 
@@ -44,5 +43,3 @@ This project analyzes a countrywide traffic accident dataset to identify pattern
 
 ### Visibility Impact
 ![Visibility Impact](./Screenshot%20(599).png)
-### Impact of vivibility on accident severity
-![ Impact of vivibility on accident severity](.Screenshot%20(599).png)
