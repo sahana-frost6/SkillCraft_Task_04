@@ -23,6 +23,8 @@ This project analyzes a countrywide traffic accident dataset to identify pattern
    python main.py
 ## 🖼️ Visualizations
 
+## 🖼️ Visualizations
+
 ### Accident Distribution
 ![Time of Day Analysis](./Screenshot%20(592).png)
 
@@ -32,13 +34,15 @@ This project analyzes a countrywide traffic accident dataset to identify pattern
 
 ### Accident Hotspots
 ![US Accident Map](./Screenshot%20(595).png)
-![Hotspots](.Screenshot%20(598).png)
+![Hotspots](./Screenshot%20(598).png)
 
-### Correlation Heatmap of Weather factors & Severity
-![Heat Map](.Screenshot%20(596).png)
+### Correlation Heatmap
+![Heat Map](./Screenshot%20(596).png)
 
-### Traffic Feature
-![Traffic Feature](.Screenshot%20(597).png)
+### Traffic Features
+![Traffic Feature](./Screenshot%20(597).png)
 
+### Visibility Impact
+![Visibility Impact](./Screenshot%20(599).png)
 ### Impact of vivibility on accident severity
 ![ Impact of vivibility on accident severity](.Screenshot%20(599).png)
