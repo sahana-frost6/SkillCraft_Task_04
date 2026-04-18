@@ -24,22 +24,39 @@ This project analyzes a countrywide traffic accident dataset to identify pattern
 
 ## 🖼️ Visualizations
 
-### Accident Distribution
-![Time of Day Analysis](./Screenshot%20(592).png)
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td><b>Time of Day Analysis</b></td>
+    <td><b>Weather Impact</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/Screenshot%20(592).png" width="400"></td>
+    <td><img src="./images/Screenshot%20(593).png" width="400"></td>
+  </tr>
+  <tr>
+    <td><b>Road Features</b></td>
+    <td><b>Accident Hotspots</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/Screenshot%20(594).png" width="400"></td>
+    <td><img src="./images/Screenshot%20(595).png" width="400"></td>
+  </tr>
+  <tr>
+    <td><b>Correlation Heatmap</b></td>
+    <td><b>Traffic Features</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/Screenshot%20(596).png" width="400"></td>
+    <td><img src="./images/Screenshot%20(597).png" width="400"></td>
+  </tr>
+  <tr>
+    <td><b>Hotspots Zoomed</b></td>
+    <td><b>Visibility Impact</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/Screenshot%20(598).png" width="400"></td>
+    <td><img src="./images/Screenshot%20(599).png" width="400"></td>
+  </tr>
+</table>
 
-### Weather and Road Conditions
-![Weather Impact](./Screenshot%20(593).png)
-![Road Features](./Screenshot%20(594).png)
-
-### Accident Hotspots
-![US Accident Map](./Screenshot%20(595).png)
-![Hotspots](./Screenshot%20(598).png)
-
-### Correlation Heatmap
-![Heat Map](./Screenshot%20(596).png)
-
-### Traffic Features
-![Traffic Feature](./Screenshot%20(597).png)
-
-### Visibility Impact
 ![Visibility Impact](./Screenshot%20(599).png)
