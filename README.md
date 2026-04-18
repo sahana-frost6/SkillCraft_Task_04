@@ -21,3 +21,24 @@ This project analyzes a countrywide traffic accident dataset to identify pattern
 3. Run the script:
    ```bash
    python main.py
+## 🖼️ Visualizations
+
+### Accident Distribution
+![Time of Day Analysis](./Screenshot%20(592).png)
+
+### Weather and Road Conditions
+![Weather Impact](./Screenshot%20(593).png)
+![Road Features](./Screenshot%20(594).png)
+
+### Accident Hotspots
+![US Accident Map](./Screenshot%20(595).png)
+![Hotspots](.Screenshot%20(598).png)
+
+### Correlation Heatmap of Weather factors & Severity
+![Heat Map](.Screenshot%20(596).png)
+
+### Traffic Feature
+![Traffic Feature](.Screenshot%20(597).png)
+
+### Impact of vivibility on accident severity
+![ Impact of vivibility on accident severity](.Screenshot%20(599).png)
